@@ -36,7 +36,7 @@ const iterateFibonacci = (n) => {
     }
 
     return result;
-
+    
 };
 
 console.log(fibonacci(8));
